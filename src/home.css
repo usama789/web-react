@@ -1,0 +1,66 @@
+.home{
+    max-width: 100%;
+    overflow-x:hidden;
+}
+.home-image{
+    max-width: 100%;
+    display: flex;
+    
+}
+.tehwar{
+    padding-right:20%;
+    width: 130%;
+    display: flex;
+    align-items: center;
+    height: 110%;
+}
+.accessories{
+    padding-right: 20%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 110%;
+}
+.home_navbar{
+    background-color: #3a098a;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.nav_text{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 10px;
+    
+}
+.mr_auto{
+    margin-left: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.feature-img{
+    height: 80%;
+    width: 90%;
+    padding-left: 12%;
+}
+.fp{
+    background-color: rgb(224, 218, 218);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mr_auto >h5{
+    color: white;
+}
+.nav_links{
+    text-decoration: none;
+    color: white;
+    
+}
+.body {
+    
+  }

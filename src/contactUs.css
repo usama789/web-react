@@ -1,0 +1,9 @@
+#name,#email,#subject{
+    width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    
+    display: flex;
+    align-items: center;
+}
