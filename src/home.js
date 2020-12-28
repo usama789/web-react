@@ -97,19 +97,18 @@ const Home = () => {
             
     <CardDeck>
     <Card>
-        <Card.Img variant="top" src="//cdn.shopify.com/s/files/1/1033/9361/products/JKS2902-3_1024x1024.jpg?v=1606115074" className="feature-img"/>
+        <Card.Img variant="top" src="//cdn.shopify.com/s/files/1/1033/9361/products/JKS2902-3_1024x1024.jpg?v=1606115074" className="feature_img"/>
         <Card.Body>
         <Card.Title>RT Leather Jackets</Card.Title>
         <Card.Text>
         
-
 
         </Card.Text>
         </Card.Body>
         
     </Card>
     <Card>
-        <Card.Img variant="top" src="//cdn.shopify.com/s/files/1/1033/9361/products/JKA01-BK_1024x1024.jpg?v=1608362427" className="feature-img" />
+        <Card.Img variant="top" src="//cdn.shopify.com/s/files/1/1033/9361/products/JKA01-BK_1024x1024.jpg?v=1608362427" className="feature_img" />
         <Card.Body>
         <Card.Title>RT Parashoot S/L IMP JKA01-BK</Card.Title>
         <Card.Text>
@@ -119,7 +118,7 @@ const Home = () => {
        
     </Card>
     <Card>
-        <Card.Img variant="top" src="//cdn.shopify.com/s/files/1/1033/9361/products/JKF16-GR_1024x1024.jpg?v=1605785696" className="feature-img"/>
+        <Card.Img variant="top" src="//cdn.shopify.com/s/files/1/1033/9361/products/JKF16-GR_1024x1024.jpg?v=1605785696" className="feature_img"/>
         <Card.Body>
         <Card.Title>RT Parashoot S/L IMP JKA01-BK</Card.Title>
         <Card.Text>
