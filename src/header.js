@@ -1,6 +1,7 @@
 import React from 'react';
 import SearchIcon from '@material-ui/icons/Search';
-import './header.css';
+import './App.css';
+import {Button} from 'react-bootstrap';
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 import {Link} from 'react-router-dom';
 const Header = () => {
@@ -18,6 +19,7 @@ const Header = () => {
                     <ShoppingCartIcon />
                     <span className="cart-value">0</span>
                     </Link>
+                    <Link className="contact" to="/contact-us">Contactus</Link>
                 </div>
 
                

@@ -1,5 +1,5 @@
 import React from 'react';
-import './header.css';
+import './App.css';
 import { AppBar, Toolbar, Typography } from "@material-ui/core";
 import Button from "@material-ui/core/Button";
 import InstagramIcon from '@material-ui/icons/Instagram';

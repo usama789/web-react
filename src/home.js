@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './home.css';
+import './App.css';
 import {Button,Navbar,Nav,Form,FormControl ,CardDeck,Card} from 'react-bootstrap';
 import {Container,Row,Col, Carousel} from 'react-bootstrap';
 import Slider from "react-slick";
